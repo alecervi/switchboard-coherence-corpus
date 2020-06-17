@@ -1,3 +1,5 @@
+# Switchboard Coherence (SWBD-Coh) corpus
+
 This is the official repository of the Switchboard Coherence corpus (SWBD-Coh), described in the 2020 SIGDIAL paper:
 
     Cervone, A. and Riccardi, G. (2020) "Is this Dialogue Coherent? Learning from Dialogue Acts and Entities". In Proceedings of the 21st Annual SIGdial Meeting on Discourse and Dialogue.
